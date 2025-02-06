@@ -8,3 +8,6 @@
 [submodule "PowerSDI"]
 	path = PowerSDI
 	url = https://github.com/gabrielblain/powersdi
+[submodule "SPIChanges"]
+	path = SPIChanges
+	url = https://github.com/gabrielblain/spichanges
