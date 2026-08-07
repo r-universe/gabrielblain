@@ -5,6 +5,9 @@
 [submodule "CropWaterBalance"]
 	path = CropWaterBalance
 	url = https://github.com/gabrielblain/cropwaterbalance
+[submodule "NSTempRFA"]
+	path = NSTempRFA
+	url = https://github.com/gabrielblain/nstemprfa
 [submodule "PowerSDI"]
 	path = PowerSDI
 	url = https://github.com/gabrielblain/powersdi
